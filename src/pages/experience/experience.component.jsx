@@ -152,7 +152,7 @@ const Experience = () => {
 
 											<li>
 												<strong>Integrated &amp; designed</strong> Eureka service for micro
-												service architecture , Zuul for REST gateway , Netfix hystrix for
+												service architecture , Zuul for REST gateway , Netflix hystrix for
 												circuit breaker pattern in case of service failures.
 											</li>
 

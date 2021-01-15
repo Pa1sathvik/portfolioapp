@@ -42,9 +42,9 @@ const About = () => {
 											</Button>
 										</a>
 									</div>
-									{/*<div>
+									<div>
 										<a
-											href="https://drive.google.com/file/d/1Snbq3x4Itk_ZN4c8J96aNdp4SunXR08Y/view?usp=sharing"
+											href="https://drive.google.com/file/d/1dGJr_UbdFUIJXmBNFwbN-2eiABaRzc6X/view?usp=sharing"
 											target="_blank"
 											rel="noopener noreferrer"
 										>
@@ -52,7 +52,7 @@ const About = () => {
 												My Resume
 											</Button>
 										</a>
-									</div> */}
+									</div>
 									<div>
 										<a
 											href="https://github.com/Pa1sathvik"
