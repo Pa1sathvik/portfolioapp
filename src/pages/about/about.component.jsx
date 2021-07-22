@@ -29,7 +29,7 @@ const About = () => {
 								<br />I love learning about new technologies, what problems are they solving and How can
 								I use them to build better and scalable products.
 								<br />
-								In my 5.4 years of experience as Full stack developer learned a lot in full stack
+								In my 6 years of experience as Full stack developer learned a lot in full stack
 								development, architecture design.
 								<br />
 								Believes in Work hard motto which helped me to solve many problems in my career.
