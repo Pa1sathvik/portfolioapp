@@ -4,6 +4,7 @@ import Jumbotron from 'react-bootstrap/Jumbotron';
 import Card from 'react-bootstrap/Card';
 import L_YODLEE from '../../assets/img/experience/yodlee.svg';
 import L_INFORMATICA from '../../assets/img/experience/informatica.png';
+import L_PAYPAL from '../../assets/img/experience/Paypal.png'
 import Tilt from 'react-tilt';
 import './experience.styles.css';
 
@@ -186,7 +187,7 @@ const Experience = () => {
 										<strong>Technology:</strong> React JS, Java, JavaScript, SQL , Oracle Database,
 										Spring Boot, Kafka, AWS S3, H2 Database.
 										<br />
-										<strong>Duration:</strong> March 2020 - Present
+										<strong>Duration:</strong> March 2020 - March 2022
 										<br />
 										<strong> Project Description </strong>
 										<ul className="text-left">
@@ -207,6 +208,49 @@ const Experience = () => {
 											<li>
 												<strong>Co-Developed &amp; Co-Designed </strong> FlawManagement Service,
 												Notification Service as part of Securestats Application.
+											</li>
+											{/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
+										</ul>
+									</Card.Text>
+								</div>
+							</Card.Body>
+							
+						</Card>
+						<Card>
+						<Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
+								<Card.Img
+									variant="top"
+									className="img-resize"
+									src={L_PAYPAL}
+									alt="Paypal logo"
+								/>
+							</Card.Header>
+						<Card.Body className="d-flex justify-content-center flex-column">
+								<div>
+									<Card.Title className="text-center">Software Development Engineer 3</Card.Title>
+								</div>
+								<div>
+									<Card.Text className="text-center style">
+										<strong className="body-title-style ">Full Stack Developer</strong>
+										<br />
+										<strong>Technology:</strong> React JS, Java, JavaScript, SQL , Oracle Database,
+										Spring Boot.
+										<br />
+										<strong>Duration:</strong> April 2022 - Present
+										<br />
+										<strong> Project Description </strong>
+										<ul className="text-left">
+											<li>
+												<strong>Developed &amp; Designed</strong> Part of Server Driven Framework(SPF)
+												team
+											</li>
+											<li>
+												<strong>Designed</strong> architecture , database schema for the
+												Version Management of SDK's in the application.
+											</li>
+											<li>
+												<strong>Developed</strong> Version Management  UI, backend using
+												Spring boot , React ES2015 , JavaScript.
 											</li>
 											{/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
 										</ul>
