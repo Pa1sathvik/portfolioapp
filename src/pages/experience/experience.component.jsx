@@ -233,8 +233,8 @@ const Experience = () => {
 									<Card.Text className="text-center style">
 										<strong className="body-title-style ">Full Stack Developer</strong>
 										<br />
-										<strong>Technology:</strong> React JS, Java, JavaScript, SQL , Oracle Database,
-										Spring Boot.
+										<strong>Technology:</strong> React JS, Redux, Java, JavaScript, SQL , Oracle Database,
+										Spring Boot, Jest, Junit, Kafka, Docker.
 										<br />
 										<strong>Duration:</strong> April 2022 - Present
 										<br />
@@ -249,8 +249,8 @@ const Experience = () => {
 												Version Management of SDK's in the application.
 											</li>
 											<li>
-												<strong>Developed</strong> Version Management  UI, backend using
-												Spring boot , React ES2015 , JavaScript.
+												<strong>Developed</strong> SPF Admin UI, backend using Java8
+												Spring boot , React JS, Redux, Oracle DB.
 											</li>
 											{/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
 										</ul>
