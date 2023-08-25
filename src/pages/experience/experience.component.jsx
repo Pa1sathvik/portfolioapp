@@ -184,7 +184,7 @@ const Experience = () => {
 									<Card.Text className="text-center style">
 										<strong className="body-title-style ">Full Stack Developer</strong>
 										<br />
-										<strong>Technology:</strong> React JS, Java, JavaScript, SQL , Oracle Database,
+										<strong>Technology:</strong> React JS, Redux, Java, JavaScript, SQL , Oracle Database,
 										Spring Boot, Kafka, AWS S3, H2 Database.
 										<br />
 										<strong>Duration:</strong> March 2020 - March 2022
