@@ -6,7 +6,6 @@ import L_REDUX from '../../assets/img/skills/redux.svg';
 import L_REACT_ROUTER from '../../assets/img/skills/react-router.svg';
 import L_REACT_BOOTSTRAP from '../../assets/img/skills/react-bootstrap.svg';
 import L_GIT from '../../assets/img/skills/git-icon.svg';
-import L_HEROKU from '../../assets/img/skills/heroku.svg';
 import L_DOCKER from '../../assets/img/skills/docker.png';
 import L_GITHUB_PAGES from '../../assets/img/skills/github.svg';
 import L_JAVASCRIPT from '../../assets/img/skills/javascript.svg';
@@ -24,6 +23,11 @@ import L_PROMETHEUS from '../../assets/img/skills/prometheus.svg';
 
 import L_MICROMETER from '../../assets/img/skills/micrometer.svg';
 import L_REST from '../../assets/img/skills/rest.jpg';
+import L_GRAPHQL from '../../assets/img/skills/graphql.svg'
+import L_ECLIPSE from '../../assets/img/skills/eclipse.png'
+import L_VSCODE from '../../assets/img/skills/vscode.jpeg'
+import L_SQLDEV from '../../assets/img/skills/sql-dev.svg'
+import L_INTELLIJ from '../../assets/img/skills/intellij.svg.png'
 
 export const skills = {
 	frontend: [
@@ -115,6 +119,12 @@ export const skills = {
 			imgSrc: L_REST,
 			skillName: 'REST Web Services',
 		},
+		{
+			link: 'https://graphql.org/',
+			imgAltText: 'GraphQL',
+			imgSrc: L_GRAPHQL,
+			skillName: 'GraphQL',
+		},
 	],
 	hostingPlatforms: [
 		{
@@ -128,6 +138,31 @@ export const skills = {
 			imgAltText: 'Docker',
 			imgSrc: L_DOCKER,
 			skillName: 'Docker',
+		},
+	],
+	ides: [
+		{
+			link: 'https://www.eclipse.org/ide/',
+			imgAltText: 'Eclipse',
+			imgSrc: L_ECLIPSE,
+			skillName: 'Eclipse',
+		},
+		{
+			link: 'https://code.visualstudio.com/',
+			imgAltText: 'Visual Studio Code',
+			imgSrc: L_VSCODE,
+			skillName: 'Visual Studio Code',
+		},{
+			link: 'https://www.jetbrains.com/idea/',
+			imgAltText: 'IntelliJ IDEA',
+			imgSrc: L_INTELLIJ,
+			skillName: 'Intellij IDEA',
+		},
+		{
+			link: 'https://www.oracle.com/in/database/sqldeveloper/',
+			imgAltText: 'SQL Developer',
+			imgSrc: L_SQLDEV,
+			skillName: 'SQL Developer',
 		},
 	],
 	programmingLanguages: [

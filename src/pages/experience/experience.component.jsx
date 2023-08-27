@@ -234,25 +234,39 @@ const Experience = () => {
 										<strong className="body-title-style ">Full Stack Developer</strong>
 										<br />
 										<strong>Technology:</strong> React JS, Redux, Java, JavaScript, SQL , Oracle Database,
-										Spring Boot, Jest, Junit, Kafka, Docker.
+										Spring Boot, Jest, Junit, GraphQl, Kafka, Docker.
 										<br />
 										<strong>Duration:</strong> April 2022 - Present
 										<br />
 										<strong> Project Description </strong>
 										<ul className="text-left">
 											<li>
-												<strong>Developed &amp; Designed</strong> Part of Server Driven Framework(SPF)
-												team
+												<strong>Developed &amp; Designed</strong> Part of Server Driven Framework(<strong><a
+												href='https://www.linkedin.com/posts/paypal_are-you-using-3x-more-time-to-build-your-activity-6904798807872413696-yp_v?utm_source=share&utm_medium=member_desktop'
+												target="_blank"
+												rel="noopener noreferrer"
+											>SPF</a></strong>) which is Paypal's
+												Server driven UI(SDUI).
 											</li>
 											<li>
-												<strong>Designed</strong> architecture , database schema for the
-												Version Management of SDK's in the application.
+											<strong><a
+												href='https://www.linkedin.com/posts/paypal_are-you-using-3x-more-time-to-build-your-activity-6904798807872413696-yp_v?utm_source=share&utm_medium=member_desktop'
+												target="_blank"
+												rel="noopener noreferrer"
+											>SPF</a></strong> is an in-house PayPal framework that leverages the principle of Server-Driven UI. It allows app and web teams to create experiences for iOS, Android, and web platforms through a single JSON file that resides on the server.</li>
+											<li>
+												<strong>Leads</strong> the Backend application team and handles Frontend Admin UI development, design, testing, and SPF Web SDK development.
 											</li>
 											<li>
-												<strong>Developed</strong> SPF Admin UI, backend using Java8
-												Spring boot , React JS, Redux, Oracle DB.
+											 Optimized application performance using CPU and memory profiling.
 											</li>
-											{/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
+											
+											<li>
+												<strong>Designed</strong> and <strong>developed</strong> version management, versioning, and Page Inheritance features for full-stack development in SPF.
+											</li>
+											<li>
+											Part of the Scrum master's group and an active member for requirement gathering, design discussion, architectural decision record's design grooming, and development of the stories.
+											</li>
 										</ul>
 									</Card.Text>
 								</div>
